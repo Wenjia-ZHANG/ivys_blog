@@ -1,4 +1,18 @@
 ---
-layout: home
+layout: splash
+permalink: /
+title: "Ivy Zhang"
+header:
+  overlay_color: "#000"             # overlay color (or image + filter)
+  overlay_filter: 0.4
+  overlay_image: /assets/images/logo.jpeg
+  actions:
+    - label: "Check it now!"
+      url: "/photos/"
+    - label: "About Me"
+      url: "/resume/"
+excerpt: "Creative photography and design from nature and light."
 author_profile: true
 ---
+{% include feature_row id="about-me" type="center" %}
+{% include author-profile.html %}
