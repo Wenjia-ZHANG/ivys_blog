@@ -1,12 +1,12 @@
 ---
 layout: single
-# title: "Travel Map"
+title: "Travel & Photos"
 permalink: /travel/
 classes: wide
 author_profile: true
 ---
 
-# 🗺️ Interactive Travel Map  
+### 🗺️ Ivy's Travel Map  
 Click markers or use the sidebar list to explore trips.
 
 <style>
@@ -211,3 +211,5 @@ document.querySelectorAll(".travel-item").forEach(el => {
 });
 </script>
 
+
+*Last updated: {{ site.time | date: "%B %Y" }}*
