@@ -6,7 +6,7 @@ toc: true
 toc_label: "On this page"
 toc_icon: "list"
 header:
-  overlay_image: /assets/images/travel/yellowstone/overview.jpg
+  overlay_image: {{ "/assets/images/travel/yellowstone/overview.jpg" | relative_url }}
   overlay_filter: 0.3
   caption: "Yellowstone National Park, USA"
 ---
@@ -25,40 +25,43 @@ This page summarizes my trip experience, favorite viewpoints, and photography no
 **Visited:** Old Faithful, Grand Prismatic, Lamar Valley, Hayden Valley, Mammoth Hot Springs, Yellowstone Lake  
 **Style:** Nature 🏞️ · Wildlife 🐻 · Photography 📸
 
-![Yellowstone landscape overview](/assets/images/travel/yellowstone/overview.jpg)
+![Yellowstone landscape overview]({{ "/assets/images/travel/yellowstone/overview.jpg" | relative_url }})
 
 ---
 
 ## 🗺️ Highlights
 
 ### 🌈 Grand Prismatic Spring
-![Grand Prismatic](/assets/images/travel/yellowstone/5.jpg)
+![Grand Prismatic]({{ "/assets/images/travel/yellowstone/5.jpg" | relative_url }})
 
 ### ⛲ Old Faithful
 {% include gallery id="yellowstone-old-faithful" class="full" caption="Old Faithful — predictable eruptions and classic Yellowstone energy." %}
 
 ### 🐃 Lamar Valley
-![Wildlife Paradise](/assets/images/travel/yellowstone/3.jpg)
+![Wildlife Paradise]({{ "/assets/images/travel/yellowstone/3.jpg" | relative_url }})
 
 ### 🌫️ Hot Springs
-Mammoth Hot Springs
-![Mammoth](/assets/images/travel/yellowstone/2.jpg)
 
-Sapphire Hot Springs
-![Mammoth](/assets/images/travel/yellowstone/4.jpg)
+**Mammoth Hot Springs**  
+![Mammoth]({{ "/assets/images/travel/yellowstone/2.jpg" | relative_url }})
+
+**Sapphire Hot Springs**  
+![Sapphire Hot Springs]({{ "/assets/images/travel/yellowstone/4.jpg" | relative_url }})
 
 ### 🌊 Yellowstone Waterfalls
-![Others](/assets/images/travel/yellowstone/6.jpg)
+![Waterfalls]({{ "/assets/images/travel/yellowstone/6.jpg" | relative_url }})
 
-![Others](/assets/images/travel/yellowstone/1.jpg)
+![Waterfalls]({{ "/assets/images/travel/yellowstone/1.jpg" | relative_url }})
 
 ### 🏔️ Grand Teton National Park
-Jenny Lake
-![Others](/assets/images/travel/yellowstone/7.jpg)
 
-![Others](/assets/images/travel/yellowstone/8.jpg)
+**Jenny Lake**  
+![Jenny Lake]({{ "/assets/images/travel/yellowstone/7.jpg" | relative_url }})
 
-![Others](/assets/images/travel/yellowstone/9.jpg)
+![Grand Teton]({{ "/assets/images/travel/yellowstone/8.jpg" | relative_url }})
+
+![Grand Teton]({{ "/assets/images/travel/yellowstone/9.jpg" | relative_url }})
+
 ---
 
 ## 📸 Photography Gear Used
