@@ -6,7 +6,7 @@ toc: true
 toc_label: "On this page"
 toc_icon: "list"
 header:
-  overlay_image: /assets/images/travel/yellowstone/header.jpg
+  overlay_image: /assets/images/travel/yellowstone/overview.jpg
   overlay_filter: 0.3
   caption: "Yellowstone National Park, USA"
 ---
@@ -14,18 +14,65 @@ header:
 # 🦬 Yellowstone National Park  
 *Wyoming, USA*
 
-A trip to Yellowstone feels like stepping into another world — geysers, wildlife, waterfalls, canyons, and steaming basins everywhere. This page summarizes my trip experience, my favorite viewpoints, and travel tips.
+A trip to Yellowstone feels like stepping into another world — geysers, wildlife, waterfalls, canyons, and steaming basins everywhere.  
+This page summarizes my trip experience, favorite viewpoints, and photography notes.
 
 ---
 
 ## 📍 Overview
 
-**Trip Duration:** _Add your dates here_  
+**Date:** June 2024  
 **Visited:** Old Faithful, Grand Prismatic, Lamar Valley, Hayden Valley, Mammoth Hot Springs, Yellowstone Lake  
 **Style:** Nature 🏞️ · Wildlife 🐻 · Photography 📸
 
+![Yellowstone landscape overview](/assets/images/travel/yellowstone/overview.jpg)
+
 ---
 
-## 🗺️ Map of Highlights  
-(Add your own map screenshot or link)
+## 🗺️ Highlights
 
+### 🌈 Grand Prismatic Spring
+![Grand Prismatic](/assets/images/travel/yellowstone/5.jpg)
+
+### ⛲ Old Faithful
+{% include gallery id="yellowstone-old-faithful" class="full" caption="Old Faithful — predictable eruptions and classic Yellowstone energy." %}
+
+### 🐃 Lamar Valley
+![Wildlife Paradise](/assets/images/travel/yellowstone/3.jpg)
+
+### 🌫️ Hot Springs
+Mammoth Hot Springs
+![Mammoth](/assets/images/travel/yellowstone/2.jpg)
+
+Sapphire Hot Springs
+![Mammoth](/assets/images/travel/yellowstone/4.jpg)
+
+### 🌊 Yellowstone Waterfalls
+![Others](/assets/images/travel/yellowstone/6.jpg)
+
+![Others](/assets/images/travel/yellowstone/1.jpg)
+
+### 🏔️ Grand Teton National Park
+Jenny Lake
+![Others](/assets/images/travel/yellowstone/7.jpg)
+
+![Others](/assets/images/travel/yellowstone/8.jpg)
+
+![Others](/assets/images/travel/yellowstone/9.jpg)
+---
+
+## 📸 Photography Gear Used
+- Camera: Iphone + Sony mirrorless  
+- Lenses: 20-70mm, F4  
+- Accessories: Tripod, ND & CPL filters
+
+---
+
+## ⭐ Final Thoughts
+
+Yellowstone is raw, unpredictable, and overwhelming in the best way.  
+It rewards patience, early mornings, and curiosity — and it’s absolutely worth revisiting.
+
+---
+
+*Last updated: {{ site.time | date: "%B %Y" }}*

@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Resume"
-    url: /resume/ # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /resume/ 
   - title: "Jigsaw Collections"
-    url: /jigsaws/ # https://mmistakes.github.io/minimal-mistakes/about/
+    url: /jigsaws/ 
   - title: "Travel & Photography"
     url: /travel/
   # - title: "Posts"
