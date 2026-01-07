@@ -6,7 +6,7 @@ toc: true
 toc_label: "On this page"
 toc_icon: "list"
 header:
-  overlay_image: {{ "/assets/images/travel/yellowstone/overview.jpg" | relative_url }}
+  overlay_image: /assets/images/travel/yellowstone/overview.jpg
   overlay_filter: 0.3
   caption: "Yellowstone National Park, USA"
 ---
